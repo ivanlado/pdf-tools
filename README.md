@@ -11,7 +11,7 @@ A desktop application for cropping and deleting pages from PDF files with a grap
 - Preview PDF pages as images
 - Save edited PDF with changes
 
-## Technologies Used
+## Technologies/libraries Used
 - Python 3
 - Tkinter (GUI)
 - PyPDF2 (PDF manipulation)
